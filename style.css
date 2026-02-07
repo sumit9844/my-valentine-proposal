@@ -290,8 +290,8 @@ h1 {
 .photo-reveal-frame {
     position: relative;
     width: 100%;
-    max-width: 400px;
-    height: 500px;
+    max-width: 960px;
+    height: 1280px;
     margin: 30px auto;
     border-radius: 20px;
     overflow: hidden;
@@ -442,3 +442,4 @@ h1 {
     }
 
 }
+
